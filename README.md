@@ -1,48 +1,28 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+Bram+Aristyo+%F0%9F%91%8B;Back-End+Developer;System+Design+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center">Bram Aristyo</h1>
 
 <p align="center">
-  <em>Back-End Developer · System Design · Performance Optimization · Clean Architecture</em>
+  <strong>Back-End Developer</strong> · System Design · Performance Optimization · Clean Architecture
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/bramaristyo"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=bramaristyo&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=BramAristyo&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-```go
-package main
+Back-End Developer with a focus on system design, performance optimization, and clean architecture. Graduated with a **S.Kom** from **Dian Nuswantoro University**. I build backend systems that are simple, performant, and maintainable — standard library over bloated frameworks whenever possible.
 
-type Developer struct {
-    Name       string
-    Role       string
-    Education  string
-    Location   string
-    Interests  []string
-}
+---
 
-func main() {
-    me := Developer{
-        Name:      "Bram Aristyo",
-        Role:      "Back-End Developer",
-        Education: "B.Cs — Dian Nuswantoro University",
-        Location:  "Indonesia",
-        Interests: []string{
-            "System Design",
-            "Performance Optimization",
-            "Clean Architecture",
-            "Concurrency Patterns",
-        },
-    }
-    _ = me
-}
-```
+### 🔭 Currently Working On
+
+- **ERP System** — Enterprise resource planning platform for **PT Inox Metal Asia (Nayati Indonesia)**, migrating legacy business logic to web-based architecture `PHP` `Laravel`
+- **POS System** — Point of Sale for sales and transaction management `Go` `Vue.js`
+- **RAG Pipeline** — Retrieval-Augmented Generation service with **gRPC** bridge between Go and Python `Go` `Python` `FastAPI` `gRPC`
 
 ---
 
@@ -72,12 +52,13 @@ func main() {
 
 ---
 
-### 🏗️ Notable Projects
+### 🏗️ Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **ERP System** | PHP · Laravel | Enterprise resource planning for PT Inox Metal Asia (Nayati Indonesia). Migrated legacy business logic to a web-based architecture. |
-| **POS System** | Go · Vue.js | Point of Sale system for sales and transaction management. |
+| **ERP System** | PHP, Laravel | Enterprise resource planning for Nayati Indonesia. Web-based migration of legacy operations. |
+| **POS System** | Go, Vue.js | Point of Sale system for sales and transaction management. |
+| **RAG Pipeline** | Go, Python, gRPC | Retrieval-Augmented Generation with gRPC bridge between Go backend and Python AI services. |
 | **IT Asset Audit & Monitoring** | Go | Internal tool for tracking and auditing IT infrastructure assets. |
 | **Internship Management System** | Web | Academic platform for managing CS student internships. |
 | **News Web Platform** | Web | Content management and publishing platform for NPS. |
@@ -88,26 +69,25 @@ func main() {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bramaristyo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" height="170" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramaristyo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" height="170" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BramAristyo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BramAristyo&show_icons=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bramaristyo&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BramAristyo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BramAristyo&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  </picture>
 </p>
 
----
-
-### ⚡ Engineering Philosophy
-
-```
-- MVP first, optimize later.
-- Standard library > bloated frameworks.
-- If it can run in a container, it should.
-- Clean architecture isn't optional.
-- Terminal over GUI, always.
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BramAristyo&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" />
+    <img src="https://streak-stats.demolab.com?user=BramAristyo&hide_border=true" alt="GitHub Streak"/>
+  </picture>
+</p>
 
 ---
 
